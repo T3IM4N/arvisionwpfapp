@@ -2,7 +2,7 @@
 ## Giriş
 Program hatasız şekilde paylaşılmıştır, eğer istek bir özellik olursa ekleyebiliriz, istediğiniz özellikleri bize iletmek veya yardım almak için [Discord sunucumuza](http://discord.com/invite/sZV8bBfME8 "Discord sunucumuza") gelebilirsiniz.
 #### Gereklilikler
-- ##### <a href="https://visualstudio.microsoft.com/tr/vs/"><img align="left" alt="VS2019" width="30px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg"></a> Visual Studio 2019
+- ##### <a href="https://visualstudio.microsoft.com/tr/vs/"><img align="center" alt="VS2019" width="30px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg">Visual Studio 2019</a>
 #### Program Özellikleri
 - ##### Haraketli sidebar.
 - ##### Hareket ettirilebilir pencere.
