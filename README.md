@@ -2,13 +2,12 @@
 ## Giriş
 Program hatasız şekilde paylaşılmıştır, eğer istek olursa eklenebilir, istediğiniz özellikleri bize iletmek için [Discord sunucumuza](http://discord.com/invite/sZV8bBfME8 "Discord sunucumuza") gelebilirsiniz
 #### Program Özellikleri
-- ##### Haraketli sidebar
-- ##### Hareket ettirilebilir pencere
-- ##### 8 adet özel font
-- ##### MaterialDesign ile tasarlanan arayüz
-- [![Arayuz resmi](https://cdn.discordapp.com/attachments/795066298295910420/795321031585431582/download.png)](https://discord.gg/sZV8bBfME8)
-[![Press f to pay respect](https://cdn.discordapp.com/attachments/736576268937723967/763426537574891550/kzsystemlogogif.gif)](https://discord.gg/sZV8bBfME8)
+- ##### Haraketli sidebar.
+- ##### Hareket ettirilebilir pencere.
+- ##### 8 adet özel font.
+- ##### MaterialDesign ile tasarlanan arayüz.
 
+[![Arayuz resmi](https://cdn.discordapp.com/attachments/795066298295910420/795321031585431582/download.png)](https://discord.gg/sZV8bBfME8)
 ## Ek Bağlantılar
 #### Discord:
 Developer Discord: `T3IM4N#6185`
