@@ -4,7 +4,7 @@ Program hatasız şekilde paylaşılmıştır, eğer istek bir özellik olursa e
 #### Gereklilikler
 - ##### <a href="https://visualstudio.microsoft.com/tr/vs/"><img align="center" alt="VS2019" width="30px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg"> Visual Studio 2019</a>
 #### Program Özellikleri
-- ##### Haraketli sidebar.
+- ##### Hareketli sidebar.
 - ##### Hareket ettirilebilir pencere.
 - ##### 8 adet özel font.
 - ##### MaterialDesign ile tasarlanan arayüz.
