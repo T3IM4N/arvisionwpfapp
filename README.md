@@ -2,7 +2,7 @@
 ## Giriş
 Program hatasız şekilde paylaşılmıştır, eğer istek bir özellik olursa ekleyebiliriz, istediğiniz özellikleri bize iletmek veya yardım almak için [Discord sunucumuza](http://discord.com/invite/sZV8bBfME8 "Discord sunucumuza") gelebilirsiniz.
 #### Gereklilikler
-- ##### <a href="https://visualstudio.microsoft.com/tr/vs/"><img align="center" alt="VS2019" width="30px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg"> Visual Studio 2019</a>
+- ##### <a href="https://visualstudio.microsoft.com/tr/vs/"><img align="center" alt="VS2019" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/815234386080301097/visualstudio.png"> Visual Studio 2019</a>
 #### Program Özellikleri
 - ##### Hareketli sidebar.
 - ##### Hareket ettirilebilir pencere.
@@ -13,7 +13,7 @@ Program hatasız şekilde paylaşılmıştır, eğer istek bir özellik olursa e
 #### Discord:
 Developer Discord: `T3IM4N#6185`
 
-[![T3IM4N++](https://img.shields.io/discord/783456542078926860?color=%237289DA&label=T3IM4N&logo=discord&logoColor=white)](https://discord.com/invite/sZV8bBfME8)
+[![KZSYSTEM++](https://img.shields.io/discord/783456542078926860?color=%237289DA&label="KZSYSTEM++"&logo=discord&logoColor=white)](https://discord.com/invite/wbg8HSWucb)
 
 [![KZSYSTEM](https://img.shields.io/discord/676684128120471572?color=%237289DA&label=KZSYSTEM&logo=discord&logoColor=white)](https://discord.com/invite/sVePrXS)
 
