@@ -1,0 +1,13 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:kzsystemwpfapp.Resources">
+    
+    <FontFamily x:Key="BatmanForeverDolu">pack:./Assets/Fonts/#batmfa__</FontFamily>
+    <FontFamily x:Key="BatmanForeverBos">pack:./Assets/Fonts/#batmfo__</FontFamily>
+    <FontFamily x:Key="BebasNue">pack:./Assets/Fonts/#BebasNeue-Regular</FontFamily>
+    <FontFamily x:Key="MetalLord">pack:./Assets/Fonts/#metallord</FontFamily>
+    <FontFamily x:Key="Righteous">pack:./Assets/Fonts/#Righteous-Regular</FontFamily>
+    <FontFamily x:Key="SGALS">pack:./Assets/Fonts/#SGALS</FontFamily>
+    <FontFamily x:Key="SGALSI">pack:./Assets/Fonts/#SGALSI</FontFamily>
+    <FontFamily x:Key="Prototype">pack:./Assets/Fonts/#Prototype</FontFamily>
+</ResourceDictionary>
