@@ -13,7 +13,7 @@ Program hatasız şekilde paylaşılmıştır, eğer istek bir özellik olursa e
 #### Discord:
 Developer Discord: `T3IM4N#6185`
 
-[![Arvision Community](https://img.shields.io/discord/783456542078926860?color=%237289DA&label=Arvision Community&logo=discord&logoColor=white)](https://discord.com/invite/wbg8HSWucb)
+[![Arvision Community](https://img.shields.io/discord/783456542078926860?color=%237289DA&label=Arvision&nbsp;Community&logo=discord&logoColor=white)](https://discord.com/invite/wbg8HSWucb)
 
 #### YouTube:
 T3IM4N Development kanalı: [T3IM4N](https://www.youtube.com/channel/UCWAkUxLxmj7M50atx-oWkzw/about "T3IM4N")
