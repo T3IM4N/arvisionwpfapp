@@ -1,4 +1,8 @@
-### <span style="color: #ff0000;">!!Önemli Duyuru</span> Geliştirme aşamasında olduğu için çalışmaz, yakında çok daha iyi bir şekilde paylaşılacak :D
+```diff
++ this text is highlighted in green
+- this text is highlighted in red
+``` 
+### Geliştirme aşamasında olduğu için çalışmaz, yakında çok daha iyi bir şekilde paylaşılacak :D
 [![Arvision](https://cdn.discordapp.com/attachments/795066298295910420/817382739199787058/arvision-longtext.png "Arvision")](https://github.com/T3IM4N "Arvision")
 ## Giriş
 Program hatasız şekilde paylaşılmıştır, eğer istek bir özellik olursa ekleyebiliriz, istediğiniz özellikleri bize iletmek veya yardım almak için [Discord sunucumuza](http://discord.com/invite/sZV8bBfME8 "Discord sunucumuza") gelebilirsiniz.
