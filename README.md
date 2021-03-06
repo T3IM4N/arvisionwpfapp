@@ -1,5 +1,5 @@
 ```diff
-- this text is highlighted in red
+-Önemli Duyuru!
 Geliştirme aşamasında olduğu için çalışmaz, yakında çok daha iyi bir şekilde paylaşılacak :D
 ```
 [![Arvision](https://cdn.discordapp.com/attachments/795066298295910420/817382739199787058/arvision-longtext.png "Arvision")](https://github.com/T3IM4N "Arvision")
